@@ -8,7 +8,9 @@ Languages And Frameworks:
 
 <br>
 
-![ARS#8178 Valorant](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=ARS#8178&logoColor=white)
+ARS#8178
+
+![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgameslogoColor=white)
 
 
 [![ARS's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ars-4&theme=blue-green)](https://github.com/ars-4/github-readme-stats)
