@@ -1,7 +1,7 @@
 ![Header](./images/github-header-image.png)
 <h1 align="center">Hi 👋, I'm ARS</h1>
 <h3 align="center">I am a Django Developer</h3>
-<img src="./images/github-header-image.png">
+<img src="./images/github-header-image.png" width="100%">
 
 - 🔭 I’m currently working on [Django Media Server](https://django-media-server.herokuapp.com)
 
