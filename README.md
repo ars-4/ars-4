@@ -1,3 +1,4 @@
+![Header](./images/github-header-image.png)
 <h1 align="center">Hi 👋, I'm ARS</h1>
 <h3 align="center">I am a Django Developer</h3>
 
