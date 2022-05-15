@@ -1,5 +1,5 @@
 
-<h1 align="center">![Header](./github-header-image.png)</h1>
+<h1 align="center"><img src="./github-header-image.png"></h1>
 <img src="./github-header-image.png" width="100%">
 
 - 🔭 I’m currently working on [Django Media Server](https://django-media-server.herokuapp.com)
