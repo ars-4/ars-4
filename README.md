@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://ars-7.herokuapp.com](https://ars-7.herokuapp.com)
+- 👨‍💻 All of my projects are available at [https://dev-ars.vercel.app](https://dev-ars.vercel.app)
 
 - 📫 How to reach me **ars7.dev@gmail.com**
 
